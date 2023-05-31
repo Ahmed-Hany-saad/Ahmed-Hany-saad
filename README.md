@@ -2,7 +2,7 @@
 
 <div align="center" width="50">
 
-<img src="[[https://i.imgur.com/dTYwdG1.gif](https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif)](https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif)" alt="Welcome!" width="300"/>
+<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="Welcome!" width="300"/>
 <br>
   <br>
 </div>

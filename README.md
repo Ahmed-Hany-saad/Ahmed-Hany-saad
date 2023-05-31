@@ -12,7 +12,6 @@ You have finally discovered my Github profile.❤️ <br>
 
 
 <div align="center">
-  <br>
 
 <i>Follow me:</i><br>
 

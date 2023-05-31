@@ -2,7 +2,7 @@
 
 <div align="center" width="50">
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/04d6ee100225657.5f0474ce87276.jpg" alt="Welcome!" width="300"/>
+<img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Welcome!" width="300"/>
 <br>
   <br>
 </div>

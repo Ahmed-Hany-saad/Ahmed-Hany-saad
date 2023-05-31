@@ -2,7 +2,7 @@
 
 <div align="center" width="50">
 
-<img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Welcome!" width="300"/>
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651780522995/zZbL8WM2v.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm" alt="Welcome!" width="300"/>
 <br>
   <br>
 </div>

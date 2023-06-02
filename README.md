@@ -1,21 +1,29 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-<div align="center" width="50">
+<h1>Hi there, I'm Ahmed Hany! 👋</h1>
 
-<img src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" alt="Welcome!" width="300"/>
-   <br>
-</div>
+<h2>About Me</h2>
+<ul>
+  <li>💻 Front-end Developer</li>
+  <li>📱 Flutter Enthusiast</li>
+  <li>🎓 Studying front-end development with Flutter</li>
+  <li>✨ Passionate about creating interactive and user-friendly web and mobile applications</li>
+</ul>
 
+<h2>Tech Stack</h2>
+<ul>
+  <li>🌐 HTML | CSS | JavaScript</li>
+  <li>📱 Flutter | Dart</li>
+</ul>
 
-You have finally discovered my Github profile.❤️ <br>
+<h2>Projects</h2>
+<ul>
+  <li>📱 My Awesome Flutter App - A showcase of my Flutter skills and projects</li>
+  <li>🌐 Personal Website - A portfolio website highlighting my front-end projects</li>
+</ul>
 
+<h2>Get in Touch</h2>
+<ul>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/ahmedhany">Ahmed Hany</a></li>
+  <li>Email: ahmed@example.com</li>
+</ul>
 
-<div align="center">
-
-<i><b>Follow me:</b></i><br>
-
-<a href="https://www.linkedin.com/in/ahmed-hany-3bb251226/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/ahmed_hany_777__/?hl=cs" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/profile.php?id=100009822514417" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-
-
-</div>
+<p>Feel free to reach out for collaboration, project ideas, or just to say hello! 😄</p>

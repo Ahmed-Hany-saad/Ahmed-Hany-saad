@@ -1,66 +1,21 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ahmed Hany's Portfolio</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 20px;
-        }
-        
-        h1 {
-            text-align: center;
-            margin-bottom: 30px;
-        }
-        
-        .project {
-            border: 1px solid #ccc;
-            border-radius: 4px;
-            padding: 20px;
-            margin-bottom: 20px;
-        }
-        
-        .project h2 {
-            margin-top: 0;
-        }
-        
-        .project p {
-            margin-bottom: 10px;
-        }
-        
-        .project a {
-            display: inline-block;
-            padding: 10px 20px;
-            background-color: #4CAF50;
-            color: white;
-            text-decoration: none;
-            border-radius: 4px;
-        }
-        
-        .project a:hover {
-            background-color: #45a049;
-        }
-    </style>
-</head>
-<body>
-    <h1>Ahmed Hany's Portfolio</h1>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<div align="center" width="50">
 
-    <div class="project">
-        <h2>Project 1: Project Name</h2>
-        <p>Short description of Project 1.</p>
-        <a href="https://github.com/your-username/project1">View Project</a>
-    </div>
+<img src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" alt="Welcome!" width="300"/>
+   <br>
+</div>
 
-    <div class="project">
-        <h2>Project 2: Project Name</h2>
-        <p>Short description of Project 2.</p>
-        <a href="https://github.com/your-username/project2">View Project</a>
-    </div>
 
-    <!-- Add more projects as needed -->
+You have finally discovered my Github profile.❤️ <br>
 
-</body>
-</html>
+
+<div align="center">
+
+<i><b>Follow me:</b></i><br>
+
+<a href="https://www.linkedin.com/in/ahmed-hany-3bb251226/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/ahmed_hany_777__/?hl=cs" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/profile.php?id=100009822514417" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+
+
+</div>

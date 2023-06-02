@@ -27,3 +27,5 @@
 </ul>
 
 <p>Feel free to reach out for collaboration, project ideas, or just to say hello! 😄</p>
+
+<img src="https://example.com/your-gif-url.gif" alt="Animated GIF">

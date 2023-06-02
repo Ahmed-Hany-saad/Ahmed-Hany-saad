@@ -22,7 +22,7 @@
 
 <h2>Get in Touch</h2>
 <ul>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/ahmedhany">Ahmed Hany</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/ahmed-hany-3bb251226/">Ahmed Hany</a></li>
   <li>Email: ahhasa842@gmail.com</li>
 </ul>
 

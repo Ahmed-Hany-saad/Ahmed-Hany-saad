@@ -23,7 +23,7 @@
 <h2>Get in Touch</h2>
 <ul>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/ahmedhany">Ahmed Hany</a></li>
-  <li>Email: ahmed@example.com</li>
+  <li>Email: ahhasa842@gmail.com</li>
 </ul>
 
 <p>Feel free to reach out for collaboration, project ideas, or just to say hello! 😄</p>

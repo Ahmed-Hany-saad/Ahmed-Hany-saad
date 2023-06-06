@@ -5,17 +5,38 @@
 
 <h2>Skills</h2>
 <ul>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>JavaScript</li>
-  <li>React.js</li>
-  <li>Node.js</li>
-  <li>Express.js</li>
-  <li>MySQL</li>
-  <li>MongoDB</li>
-  <li>Flutter</li>
-  <li>Dart</li>
+  <li>
+    <img src="html5-icon.png" alt="HTML5" width="30">
+  </li>
+  <li>
+    <img src="css3-icon.png" alt="CSS3" width="30">
+  </li>
+  <li>
+    <img src="javascript-icon.png" alt="JavaScript" width="30">
+  </li>
+  <li>
+    <img src="react-icon.png" alt="React.js" width="30">
+  </li>
+  <li>
+    <img src="nodejs-icon.png" alt="Node.js" width="30">
+  </li>
+  <li>
+    <img src="expressjs-icon.png" alt="Express.js" width="30">
+  </li>
+  <li>
+    <img src="mysql-icon.png" alt="MySQL" width="30">
+  </li>
+  <li>
+    <img src="mongodb-icon.png" alt="MongoDB" width="30">
+  </li>
+  <li>
+    <img src="flutter-icon.png" alt="Flutter" width="30">
+  </li>
+  <li>
+    <img src="dart-icon.png" alt="Dart" width="30">
+  </li>
 </ul>
+
 
 <h2>Projects</h2>
 <ul>
